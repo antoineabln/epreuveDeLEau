@@ -9,7 +9,7 @@ function index(){
   for(let i = 0; i<tab.length-1; i++){
     
     if(tab[i] === dernierElement){
-      
+       
       c.push(i);
       
     }
